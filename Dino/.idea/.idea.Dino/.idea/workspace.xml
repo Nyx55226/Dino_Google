@@ -11,59 +11,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e29e3f-1321-491e-9175-8f2b384fb1f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dino/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.junie/memory/errors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.junie/memory/feedback.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.junie/memory/language.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.junie/memory/memory.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.junie/memory/tasks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor/ReadmeEditorVE1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor/ReadmeEditorVE1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputAction.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputAction.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dino/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dino/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/App Icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/App Icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CactusController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/CactusController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CactusMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/CactusMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/LandScapeLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/LandScapeLogic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerInputs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/Player.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/Player.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/player_jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_jump.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/player_jump.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_jump.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/player_run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_run.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/player_run.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_run.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script/moveBackGound.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script/moveBackGound.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script/playerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script/playerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/Cactus A.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/Cactus A.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/Cactus B.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/Cactus B.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/Cactus C.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/Cactus C.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="16" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a469c5cf96a43eab23a293167261e20212400/c6/7f0e3819/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4a91f199aff8e0e187cfc4b284b295c84c1a6afbec11c6f1d4115fe816212/System.Runtime.CompilerServices.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CactusController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CactusMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ManagerUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInputs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/inputActions.inputactions" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -73,96 +52,96 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.2098172258485355E-59" />
-      <entry key="MS500" value="2.1127720755146413E-12" />
-      <entry key="S2" value="0.0012089819158028604" />
-      <entry key="S5" value="0.07878080725904721" />
-      <entry key="S10" value="0.4814452298964677" />
-      <entry key="S30" value="3.3391136126195433" />
-      <entry key="S60" value="6.913868423629556" />
-      <entry key="M2" value="11.436997549963898" />
-      <entry key="M5" value="21.755949333210435" />
-      <entry key="M10" value="43.515598609936234" />
-      <entry key="M15" value="65.64690472978698" />
-      <entry key="M30" value="117.23329349864933" />
-      <entry key="H1" value="184.31710693834088" />
-      <entry key="H2" value="255.02110124459043" />
-      <entry key="H4" value="311.2423095541372" />
-      <entry key="D1" value="375.6184286082088" />
-      <entry key="W1" value="388.7441659289223" />
+      <entry key="MS100" value="6.00042726897706E-13" />
+      <entry key="MS500" value="0.003594487633094624" />
+      <entry key="S2" value="0.260738846326956" />
+      <entry key="S5" value="0.9356223886727041" />
+      <entry key="S10" value="1.9485472013931273" />
+      <entry key="S30" value="6.681368076122804" />
+      <entry key="S60" value="13.781327300265996" />
+      <entry key="M2" value="22.0058445292884" />
+      <entry key="M5" value="30.232651431397166" />
+      <entry key="M10" value="34.385106673701074" />
+      <entry key="M15" value="38.199129227223054" />
+      <entry key="M30" value="59.37655789759928" />
+      <entry key="H1" value="136.16983730597903" />
+      <entry key="H2" value="310.38126311358667" />
+      <entry key="H4" value="540.0718887204436" />
+      <entry key="D1" value="926.4720488563189" />
+      <entry key="W1" value="1023.6306076056534" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000005602077204" />
-      <entry key="S5" value="1.0044323505193091" />
-      <entry key="S10" value="1.1099880542206424" />
-      <entry key="S30" value="2.393040352487991" />
-      <entry key="S60" value="4.219720191810408" />
-      <entry key="M2" value="6.939323021183389" />
-      <entry key="M5" value="13.663171627226184" />
-      <entry key="M10" value="25.079481097830882" />
-      <entry key="M15" value="35.03292241011258" />
-      <entry key="M30" value="56.73814388552798" />
-      <entry key="H1" value="87.02508487226342" />
-      <entry key="H2" value="122.47217768980003" />
-      <entry key="H4" value="152.49142117511443" />
-      <entry key="D1" value="188.27193650566568" />
-      <entry key="W1" value="195.71609915906953" />
+      <entry key="MS500" value="1.0000527671652446" />
+      <entry key="S2" value="1.0859352295643734" />
+      <entry key="S5" value="1.4286361228457158" />
+      <entry key="S10" value="1.8764957087762197" />
+      <entry key="S30" value="3.4721597523093077" />
+      <entry key="S60" value="5.306474881997369" />
+      <entry key="M2" value="7.08835211561581" />
+      <entry key="M5" value="8.659845612413012" />
+      <entry key="M10" value="9.566599469340094" />
+      <entry key="M15" value="11.014462675461028" />
+      <entry key="M30" value="20.022410271356986" />
+      <entry key="H1" value="51.84523485402187" />
+      <entry key="H2" value="126.3876754917844" />
+      <entry key="H4" value="228.63018230222144" />
+      <entry key="D1" value="407.0074708921766" />
+      <entry key="W1" value="452.7836013320034" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.5662122047537674E-5" />
-      <entry key="MS500" value="0.12074204111560566" />
-      <entry key="S2" value="0.589481315285062" />
-      <entry key="S5" value="0.8285514191734856" />
-      <entry key="S10" value="1.276097033514293" />
-      <entry key="S30" value="5.365403912378379" />
-      <entry key="S60" value="10.841506900288673" />
-      <entry key="M2" value="18.164327365238545" />
-      <entry key="M5" value="35.27779382847271" />
-      <entry key="M10" value="68.47833898342816" />
-      <entry key="M15" value="100.57438893430127" />
-      <entry key="M30" value="173.88747898759306" />
-      <entry key="H1" value="271.277568179582" />
-      <entry key="H2" value="377.447465391796" />
-      <entry key="H4" value="463.70506448507115" />
-      <entry key="D1" value="563.8844389339727" />
-      <entry key="W1" value="584.4593842982921" />
+      <entry key="MS100" value="0.0018865943924313384" />
+      <entry key="MS500" value="0.28536909776961616" />
+      <entry key="S2" value="0.9228630841139167" />
+      <entry key="S5" value="2.0147115154476" />
+      <entry key="S10" value="3.547199710101032" />
+      <entry key="S30" value="9.929002284341248" />
+      <entry key="S60" value="18.886915376221037" />
+      <entry key="M2" value="28.94626517413368" />
+      <entry key="M5" value="38.81524960303176" />
+      <entry key="M10" value="43.907961113782804" />
+      <entry key="M15" value="49.17958300999333" />
+      <entry key="M30" value="79.36755254152307" />
+      <entry key="H1" value="187.97533333666226" />
+      <entry key="H2" value="436.7212913616987" />
+      <entry key="H4" value="768.6590704282229" />
+      <entry key="D1" value="1333.4667333154398" />
+      <entry key="W1" value="1476.4121754431083" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3ESsZNBzLDdIYX6ynSkPeT8q3K4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Unity.exe" />
@@ -209,6 +188,8 @@
       <option name="presentableId" value="Default" />
       <updated>1780183361950</updated>
       <workItem from="1780183364043" duration="7868000" />
+      <workItem from="1780238783309" duration="14045000" />
+      <workItem from="1780258523581" duration="26000" />
     </task>
     <servers />
   </component>

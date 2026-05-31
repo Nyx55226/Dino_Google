@@ -19,6 +19,6 @@ public class CactusMovement : MonoBehaviour
     // Update is called once per frame
     private void FixedUpdate()
     {
-        transform.Translate(Vector2.left* (speed*Time.fixedDeltaTime));
+        transform.Translate(Vector2.left * (ManagerUI.Speed(speed) * Time.fixedDeltaTime));
     }
 }
