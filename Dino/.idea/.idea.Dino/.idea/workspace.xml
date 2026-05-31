@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46e29e3f-1321-491e-9175-8f2b384fb1f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dino/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.junie/memory/errors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.junie/memory/feedback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.junie/memory/language.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.junie/memory/memory.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.junie/memory/tasks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor/ReadmeEditorVE1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/Editor/ReadmeEditorVE1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputAction.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputAction.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/Player.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/Player.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/player_jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_jump.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/player_jump.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_jump.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/player_run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/player_run.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/player_run.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/moveBackGound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/moveBackGound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/playerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/playerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CactusController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CactusMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInputs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/inputActions.inputactions" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.2098172258485355E-59" />
+      <entry key="MS500" value="2.1127720755146413E-12" />
+      <entry key="S2" value="0.0012089819158028604" />
+      <entry key="S5" value="0.07878080725904721" />
+      <entry key="S10" value="0.4814452298964677" />
+      <entry key="S30" value="3.3391136126195433" />
+      <entry key="S60" value="6.913868423629556" />
+      <entry key="M2" value="11.436997549963898" />
+      <entry key="M5" value="21.755949333210435" />
+      <entry key="M10" value="43.515598609936234" />
+      <entry key="M15" value="65.64690472978698" />
+      <entry key="M30" value="117.23329349864933" />
+      <entry key="H1" value="184.31710693834088" />
+      <entry key="H2" value="255.02110124459043" />
+      <entry key="H4" value="311.2423095541372" />
+      <entry key="D1" value="375.6184286082088" />
+      <entry key="W1" value="388.7441659289223" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000005602077204" />
+      <entry key="S5" value="1.0044323505193091" />
+      <entry key="S10" value="1.1099880542206424" />
+      <entry key="S30" value="2.393040352487991" />
+      <entry key="S60" value="4.219720191810408" />
+      <entry key="M2" value="6.939323021183389" />
+      <entry key="M5" value="13.663171627226184" />
+      <entry key="M10" value="25.079481097830882" />
+      <entry key="M15" value="35.03292241011258" />
+      <entry key="M30" value="56.73814388552798" />
+      <entry key="H1" value="87.02508487226342" />
+      <entry key="H2" value="122.47217768980003" />
+      <entry key="H4" value="152.49142117511443" />
+      <entry key="D1" value="188.27193650566568" />
+      <entry key="W1" value="195.71609915906953" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.5662122047537674E-5" />
+      <entry key="MS500" value="0.12074204111560566" />
+      <entry key="S2" value="0.589481315285062" />
+      <entry key="S5" value="0.8285514191734856" />
+      <entry key="S10" value="1.276097033514293" />
+      <entry key="S30" value="5.365403912378379" />
+      <entry key="S60" value="10.841506900288673" />
+      <entry key="M2" value="18.164327365238545" />
+      <entry key="M5" value="35.27779382847271" />
+      <entry key="M10" value="68.47833898342816" />
+      <entry key="M15" value="100.57438893430127" />
+      <entry key="M30" value="173.88747898759306" />
+      <entry key="H1" value="271.277568179582" />
+      <entry key="H2" value="377.447465391796" />
+      <entry key="H4" value="463.70506448507115" />
+      <entry key="D1" value="563.8844389339727" />
+      <entry key="W1" value="584.4593842982921" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3ESsZNBzLDdIYX6ynSkPeT8q3K4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Nyx\Documents\Repository\Dino_Google\Dino -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Nyx\Documents\Repository\Dino_Google\Dino" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Nyx\Documents\Repository\Dino_Google\Dino -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Nyx\Documents\Repository\Dino_Google\Dino" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e29e3f-1321-491e-9175-8f2b384fb1f8" name="Changes" comment="" />
+      <created>1780183361950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780183361950</updated>
+      <workItem from="1780183364043" duration="7868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

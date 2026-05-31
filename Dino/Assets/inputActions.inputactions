@@ -1,15 +1,15 @@
 {
     "version": 1,
-    "name": "InputAction",
+    "name": "inputActions",
     "maps": [
         {
             "name": "Player",
-            "id": "01c74456-db82-44fb-a3cd-8cd51818d382",
+            "id": "46fdd644-ef2b-4e5a-9941-032785aea659",
             "actions": [
                 {
                     "name": "jump",
                     "type": "Button",
-                    "id": "60661d60-6a36-4ffa-ac57-df93ee995803",
+                    "id": "95c19187-f599-4978-8a7b-672072b5e706",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -19,7 +19,7 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "a3545e06-399b-4b1e-a9ac-b5e1cd2698e9",
+                    "id": "1c07303f-d432-4663-b50b-86c1a6afa676",
                     "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
@@ -30,7 +30,18 @@
                 },
                 {
                     "name": "",
-                    "id": "13bec4c1-7a00-4e65-93c5-c957eb664756",
+                    "id": "ee02a61d-fe8f-4258-84c5-e3faa12c118f",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "591d7795-82b8-4910-9b69-5548a6b9a324",
                     "path": "<Touchscreen>/Press",
                     "interactions": "",
                     "processors": "",
