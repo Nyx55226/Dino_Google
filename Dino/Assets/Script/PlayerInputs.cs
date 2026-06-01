@@ -45,7 +45,7 @@ public class PlayerInputs : MonoBehaviour
         }
 
         if (input.canceled && rb.linearVelocityY>0f)
-            rb.linearVelocityY *= 0.2f;
+            rb.linearVelocityY *= -0.5f;
 
     }
 

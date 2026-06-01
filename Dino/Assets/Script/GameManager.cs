@@ -71,8 +71,14 @@ public class ManagerUI : MonoBehaviour
                 return speed * 2f;
             case < 400:
                 return speed * 3f;
+            case < 1000:
+                return speed * 4f;
+            case < 2000:
+                return speed * 5f;
+            case < 4000:
+                return speed * 10f;
             default:
-                return speed * 1f;
+                return speed * 15f;
         }
     }
 }
