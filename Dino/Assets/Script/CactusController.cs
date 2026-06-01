@@ -7,13 +7,15 @@ public class CactusController : MonoBehaviour
     private float time_=0;
     private int randomNumber = 0;
     private Vector2 positionCactus;
+    private const float maxSpawnTime = 3.5f;
+    private const float minSpawnTime = 2.5f;
     
 
     // Update is called once per frame
     void Update()
     {
         time_ += Time.deltaTime;
-        if (time_ >= ManagerUI.spawnTime())
+        if (time_ >= Random.Range(minSpawnTime,maxSpawnTime))
         {
             time_ =0;
             randomNumber = Random.Range(0,3);

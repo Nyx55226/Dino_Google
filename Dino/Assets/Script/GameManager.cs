@@ -75,24 +75,4 @@ public class ManagerUI : MonoBehaviour
                 return speed * 1f;
         }
     }
-
-
-    public static float spawnTime()
-    {
-        switch (score)
-        {
-            case < 50:
-                return 2.5f;
-            case < 100:
-                return 2f;
-            case < 150:
-                return 1.5f;
-            case < 300:
-                return 1f;
-            case < 400:
-                return 0.6f;
-            default:
-                return 2.5f;
-        }
-    }
 }
